@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# Veri setleri (GitHub dosya boyutu sınırına takılmamak ve gereksiz alan kaplamamak için büyük verileri yoksayıyoruz)
+data/online_retail.csv
+data/processed_transactions.csv
+data/Online\ Retail.xlsx
+
+# Sanal ortamlar
+venv/
+.venv/
+env/
+.env
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
